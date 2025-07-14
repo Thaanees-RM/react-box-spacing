@@ -23,5 +23,8 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "@thaanees11/react-box-spacing": "^1.0.4"
   }
 }
